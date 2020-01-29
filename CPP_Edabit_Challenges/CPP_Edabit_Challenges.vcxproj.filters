@@ -27,6 +27,12 @@
     <ClCompile Include="ConvertHoursintoSeconds.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="checkPalindrome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="adjacentElementsProduct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Main.h">

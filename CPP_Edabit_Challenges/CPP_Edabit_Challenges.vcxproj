@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="adjacentElementsProduct.cpp" />
+    <ClCompile Include="checkPalindrome.cpp" />
     <ClCompile Include="ConvertHoursintoSeconds.cpp" />
     <ClCompile Include="CountLettersinaWordSearch.cpp" />
     <ClCompile Include="Main.cpp" />

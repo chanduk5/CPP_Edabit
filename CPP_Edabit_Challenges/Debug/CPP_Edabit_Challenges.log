@@ -1,5 +1,3 @@
-﻿  ConvertHoursintoSeconds.cpp
-  Main.cpp
-  ReturntheRemainderfromTwoNumbers.cpp
-  Generating Code...
+﻿  adjacentElementsProduct.cpp
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_Edabit_Challenges\adjacentElementsProduct.cpp(11,28): warning C4018: '<': signed/unsigned mismatch
   CPP_Edabit_Challenges.vcxproj -> C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_Edabit_Challenges\Debug\CPP_Edabit_Challenges.exe
