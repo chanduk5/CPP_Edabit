@@ -9,6 +9,8 @@ int main(void)
 	//ReturntheRemainderfromTwoNumbers();
 	//ConvertHoursintoSeconds();
 	//stringPalindrome();
-	vectorelementsadjacentElementsProduct();
+	//vectorelementsadjacentElementsProduct();
+	//ArrayConsecutive();
+	IncreasingSequence();
 	return 0;
 }
