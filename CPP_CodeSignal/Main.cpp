@@ -11,6 +11,9 @@ int main(void)
 	//stringPalindrome();
 	//vectorelementsadjacentElementsProduct();
 	//ArrayConsecutive();
-	IncreasingSequence();
+	//IncreasingSequence();
+	//freematrixElementsSum();
+
+	longestStrings();
 	return 0;
 }

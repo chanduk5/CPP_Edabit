@@ -25,6 +25,7 @@
     <ClCompile Include="ConvertHoursintoSeconds.cpp" />
     <ClCompile Include="CountLettersinaWordSearch.cpp" />
     <ClCompile Include="freeRoomsMatrixElementsSum.cpp" />
+    <ClCompile Include="longeststrings.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="makeArrayConsecutive.cpp" />
     <ClCompile Include="ReturntheRemainderfromTwoNumbers.cpp" />
