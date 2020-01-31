@@ -5,3 +5,5 @@ void stringPalindrome(void);
 void vectorelementsadjacentElementsProduct(void);
 void ArrayConsecutive(void);
 void IncreasingSequence(void);
+void freematrixElementsSum(void);
+void longestStrings(void);
