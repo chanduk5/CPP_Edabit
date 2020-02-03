@@ -51,6 +51,9 @@
     <ClCompile Include="Lucky.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="sortByHeight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Main.h">

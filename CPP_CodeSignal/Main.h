@@ -9,3 +9,4 @@ void freematrixElementsSum(void);
 void longestStrings(void);
 void characterCount(void);
 void lucky(void);
+void placeByHeight(void);
