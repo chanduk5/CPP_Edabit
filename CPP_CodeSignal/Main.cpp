@@ -13,7 +13,8 @@ int main(void)
 	//ArrayConsecutive();
 	//IncreasingSequence();
 	//freematrixElementsSum();
-
-	longestStrings();
+	//longestStrings();
+	//characterCount();
+	lucky();
 	return 0;
 }

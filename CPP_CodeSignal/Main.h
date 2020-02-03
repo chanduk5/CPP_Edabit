@@ -7,3 +7,5 @@ void ArrayConsecutive(void);
 void IncreasingSequence(void);
 void freematrixElementsSum(void);
 void longestStrings(void);
+void characterCount(void);
+void lucky(void);

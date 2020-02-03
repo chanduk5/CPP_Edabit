@@ -1,3 +1,4 @@
-﻿  longeststrings.cpp
-C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\longeststrings.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+﻿  Lucky.cpp
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\Lucky.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\Lucky.cpp(18,15): warning C4018: '<': signed/unsigned mismatch
   CPP_Edabit_Challenges.vcxproj -> C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\Debug\CPP_Edabit_Challenges.exe
