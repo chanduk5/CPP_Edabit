@@ -5,6 +5,8 @@ using namespace std;
 
 int main(void)
  {
+	int temp = 1;
+
 	//CountLettersinaWordSearch();
 	//ReturntheRemainderfromTwoNumbers();
 	//ConvertHoursintoSeconds();
@@ -13,7 +15,18 @@ int main(void)
 	//ArrayConsecutive();
 	//IncreasingSequence();
 	//freematrixElementsSum();
+	//longestStrings();
+	//characterCount();
+	//lucky();
+	do
+	{
+		//placeByHeight();
+		//reverseInParenthesesString();
+		alternatingSums();
+		cout << "press 0 to exit: ";
+		cin >> temp;
+	}while (temp);
 
-	longestStrings();
+	
 	return 0;
 }

@@ -32,6 +32,5 @@ void stringPalindrome(void)
     cout << "enter the string: ";
     cin >> str;
 
-
     cout << "check:" << checkPalindrome(str) << endl;
 }

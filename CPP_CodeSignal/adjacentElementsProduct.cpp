@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 int adjacentElementsProduct(std::vector<int> inputArray)
 {
 	int product = (inputArray.at(0) * inputArray.at(1));
