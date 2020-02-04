@@ -20,7 +20,9 @@ int main(void)
 	//lucky();
 	do
 	{
-		placeByHeight();
+		//placeByHeight();
+		//reverseInParenthesesString();
+		alternatingSums();
 		cout << "press 0 to exit: ";
 		cin >> temp;
 	}while (temp);

@@ -10,3 +10,5 @@ void longestStrings(void);
 void characterCount(void);
 void lucky(void);
 void placeByHeight(void);
+void reverseInParenthesesString(void);
+void alternatingSums(void);

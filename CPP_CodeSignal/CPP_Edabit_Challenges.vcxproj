@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="adjacentElementsProduct.cpp" />
     <ClCompile Include="almostIncreasingSequence.cpp" />
+    <ClCompile Include="alternatingSums.cpp" />
     <ClCompile Include="CharacterCount.cpp" />
     <ClCompile Include="checkPalindrome.cpp" />
     <ClCompile Include="ConvertHoursintoSeconds.cpp" />
@@ -31,6 +32,7 @@
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="makeArrayConsecutive.cpp" />
     <ClCompile Include="ReturntheRemainderfromTwoNumbers.cpp" />
+    <ClCompile Include="reverseInParentheses.cpp" />
     <ClCompile Include="sortByHeight.cpp" />
   </ItemGroup>
   <ItemGroup>

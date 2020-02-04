@@ -1,4 +1,6 @@
-﻿  sortByHeight.cpp
-C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\sortByHeight.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
-C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\sortByHeight.cpp(12,26): warning C4018: '<': signed/unsigned mismatch
+﻿  alternatingSums.cpp
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\alternatingSums.cpp(9,15): warning C4018: '<': signed/unsigned mismatch
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\alternatingSums.cpp(9,33): warning C4018: '<': signed/unsigned mismatch
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\alternatingSums.cpp(11,13): warning C4018: '<': signed/unsigned mismatch
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\alternatingSums.cpp(12,13): warning C4018: '<': signed/unsigned mismatch
   CPP_Edabit_Challenges.vcxproj -> C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\Debug\CPP_Edabit_Challenges.exe
