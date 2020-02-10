@@ -1,6 +1,41 @@
-﻿  alternatingSums.cpp
+﻿  addBorder.cpp
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\addBorder.cpp(15,28): warning C4018: '<': signed/unsigned mismatch
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\addBorder.cpp(20,28): warning C4018: '<=': signed/unsigned mismatch
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\addBorder.cpp(22,31): warning C4018: '<=': signed/unsigned mismatch
+  adjacentElementsProduct.cpp
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\adjacentElementsProduct.cpp(10,28): warning C4018: '<': signed/unsigned mismatch
+  almostIncreasingSequence.cpp
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\almostIncreasingSequence.cpp(10,29): warning C4018: '<': signed/unsigned mismatch
+  alternatingSums.cpp
 C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\alternatingSums.cpp(9,15): warning C4018: '<': signed/unsigned mismatch
 C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\alternatingSums.cpp(9,33): warning C4018: '<': signed/unsigned mismatch
 C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\alternatingSums.cpp(11,13): warning C4018: '<': signed/unsigned mismatch
 C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\alternatingSums.cpp(12,13): warning C4018: '<': signed/unsigned mismatch
+  areSimilar.cpp
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\areSimilar.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\areSimilar.cpp(13,21): warning C4018: '<': signed/unsigned mismatch
+  arrayChange.cpp
+  CharacterCount.cpp
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\CharacterCount.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\CharacterCount.cpp(12,25): warning C4018: '<': signed/unsigned mismatch
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\CharacterCount.cpp(21,21): warning C4018: '<': signed/unsigned mismatch
+  checkPalindrome.cpp
+  ConvertHoursintoSeconds.cpp
+  CountLettersinaWordSearch.cpp
+  freeRoomsMatrixElementsSum.cpp
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\freeRoomsMatrixElementsSum.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\freeRoomsMatrixElementsSum.cpp(12,21): warning C4018: '<': signed/unsigned mismatch
+  longeststrings.cpp
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\longeststrings.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+  Lucky.cpp
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\Lucky.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\Lucky.cpp(20,15): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  makeArrayConsecutive.cpp
+  ReturntheRemainderfromTwoNumbers.cpp
+  reverseInParentheses.cpp
+  sortByHeight.cpp
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\sortByHeight.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\sortByHeight.cpp(12,26): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   CPP_Edabit_Challenges.vcxproj -> C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\Debug\CPP_Edabit_Challenges.exe

@@ -19,9 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="addBorder.cpp" />
     <ClCompile Include="adjacentElementsProduct.cpp" />
     <ClCompile Include="almostIncreasingSequence.cpp" />
     <ClCompile Include="alternatingSums.cpp" />
+    <ClCompile Include="areSimilar.cpp" />
+    <ClCompile Include="arrayChange.cpp" />
     <ClCompile Include="CharacterCount.cpp" />
     <ClCompile Include="checkPalindrome.cpp" />
     <ClCompile Include="ConvertHoursintoSeconds.cpp" />

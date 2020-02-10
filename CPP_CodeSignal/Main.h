@@ -12,3 +12,6 @@ void lucky(void);
 void placeByHeight(void);
 void reverseInParenthesesString(void);
 void alternatingSums(void);
+void addBorder(void);
+void areSimilar(void);
+void arrayChange(void);
