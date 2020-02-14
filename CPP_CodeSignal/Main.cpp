@@ -22,10 +22,17 @@ int main(void)
 	{
 		//placeByHeight();
 		//reverseInParenthesesString();
-		alternatingSums();
+		//alternatingSums();
+		//addBorder();
+		//areSimilar();
+		//arrayChange();
+		//palindromeRearranging();
+		//nameSpace();
+		//memoryManagement();
+		fileIO();
 		cout << "press 0 to exit: ";
 		cin >> temp;
-	}while (temp);
+ 	}while (temp);
 
 	
 	return 0;
