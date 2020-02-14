@@ -34,9 +34,13 @@
     <ClCompile Include="Lucky.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="makeArrayConsecutive.cpp" />
+    <ClCompile Include="memoryManagement.cpp" />
+    <ClCompile Include="namespace.cpp" />
+    <ClCompile Include="palindromeRearranging.cpp" />
     <ClCompile Include="ReturntheRemainderfromTwoNumbers.cpp" />
     <ClCompile Include="reverseInParentheses.cpp" />
     <ClCompile Include="sortByHeight.cpp" />
+    <ClCompile Include="fileIO.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Main.h" />

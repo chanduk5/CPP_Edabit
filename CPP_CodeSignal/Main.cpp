@@ -25,7 +25,11 @@ int main(void)
 		//alternatingSums();
 		//addBorder();
 		//areSimilar();
-		arrayChange();
+		//arrayChange();
+		//palindromeRearranging();
+		//nameSpace();
+		//memoryManagement();
+		fileIO();
 		cout << "press 0 to exit: ";
 		cin >> temp;
  	}while (temp);

@@ -15,3 +15,7 @@ void alternatingSums(void);
 void addBorder(void);
 void areSimilar(void);
 void arrayChange(void);
+void palindromeRearranging(void);
+void nameSpace(void);
+void memoryManagement(void);
+void fileIO(void);
