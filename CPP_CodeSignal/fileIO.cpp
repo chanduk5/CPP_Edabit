@@ -5,6 +5,7 @@ void fileIO(void)
 {
 	string str;
 	static int value = 0;
+	fstream file;
 
 	// open an ifstream
 	ifstream inputFile;
@@ -20,4 +21,14 @@ void fileIO(void)
 
 	inputFile.close();
 	outputFile.close();
+#if 1
+	
+	file.open("file.txt", ios:: in | ios::out | ios::app);
+	file << "IloveC++programming" << value++ << endl;
+	file >> str;
+	file.close();
+
+	//file.open("file.txt", ios::out | ios::app);
+	//file.close();
+#endif
 }
