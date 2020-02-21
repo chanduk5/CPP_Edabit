@@ -29,7 +29,10 @@ int main(void)
 		//palindromeRearranging();
 		//nameSpace();
 		//memoryManagement();
-		fileIO();
+		//fileIO();
+		//IPv4AddressIdentification();
+		//avoidObstacles();
+		boxBlur();
 		cout << "press 0 to exit: ";
 		cin >> temp;
  	}while (temp);
