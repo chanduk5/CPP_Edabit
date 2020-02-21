@@ -1,6 +1,4 @@
-﻿  reverseInParentheses.cpp
-  sortByHeight.cpp
-C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\sortByHeight.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
-C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\sortByHeight.cpp(12,26): warning C4018: '<': signed/unsigned mismatch
-  Generating Code...
+﻿  boxBlur.cpp
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\boxBlur.cpp(11,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\boxBlur.cpp(13,23): warning C4018: '<=': signed/unsigned mismatch
   CPP_Edabit_Challenges.vcxproj -> C:\Chandu\CPP_Preparation\CPP_Edabit\CPP_CodeSignal\Debug\CPP_Edabit_Challenges.exe

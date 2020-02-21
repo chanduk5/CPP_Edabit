@@ -19,3 +19,6 @@ void palindromeRearranging(void);
 void nameSpace(void);
 void memoryManagement(void);
 void fileIO(void);
+void IPv4AddressIdentification(void);
+void avoidObstacles(void);
+void boxBlur(void);
