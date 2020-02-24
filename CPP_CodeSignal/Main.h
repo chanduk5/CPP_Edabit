@@ -22,3 +22,7 @@ void fileIO(void);
 void IPv4AddressIdentification(void);
 void avoidObstacles(void);
 void boxBlur(void);
+void minesweeper(void);
+void evenDigitsOnly(void);
+void checkValidVariableName(void);
+void absoluteValuesSumMinimization(void);

@@ -32,7 +32,11 @@ int main(void)
 		//fileIO();
 		//IPv4AddressIdentification();
 		//avoidObstacles();
-		boxBlur();
+		//boxBlur();
+		//minesweeper();
+		//evenDigitsOnly();
+		//checkValidVariableName();
+		absoluteValuesSumMinimization();
 		cout << "press 0 to exit: ";
 		cin >> temp;
  	}while (temp);
