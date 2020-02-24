@@ -1,23 +1,11 @@
 #include<iostream>
 #include<vector>
-#include<>
 
 using namespace std;
 
 vector<vector<int>> minesweeper(vector<vector<bool>> matrix) 
 {
-	vector<vector<bool>> result;
-	int row = matrix.size();
-
-	result.resize(row);
-
-	for (int i = 0; i < row; i++)
-	{
-		for (int j = 0; j < matrix[i].size(); j++)
-		{
-			result[i].resize(matrix[i].size(), 0);
-		}
-	}
+	vector<vector<int>> result(matrix.size(), vector<int>(matrix[0].size(), 0));
 
 	for (int i = 0; i + 2 <= matrix.size(); i++)
 	{
@@ -25,27 +13,40 @@ vector<vector<int>> minesweeper(vector<vector<bool>> matrix)
 		{
 			if (matrix[i][j] == true)
 			{
-				result[i][j + 1] = result[i][j + 1] + 1;
-				result[i + 1][j] = result[i + 1][j] + 1;
-				result[i + 1][j + 1] = result[i + 1][j + 1] + 1;
+				result[i][j + 1]++;
+				result[i + 1][j]++;
+				result[i + 1][j + 1]++;
 			}
 			if (matrix[i][j + 1] == true)
 			{
-				matrix[i][j] = matrix[i][j] + 1;
-				result[i + 1][j] = result[i + 1][j] + 1;
-				result[i + 1][j + 1] = result[i + 1][j + 1] + 1;
+				result[i][j]++;
+				result[i + 1][j]++;
+				if (j+2 == matrix[i].size())
+				{
+					result[i + 1][j + 1]++;
+				}
 			}
 			if (matrix[i + 1][j] == true)
 			{
-				matrix[i][j] = matrix[i][j] + 1;
-				result[i][j+1] = result[i][j+1] + 1;
-				result[i + 1][j + 1] = result[i + 1][j + 1] + 1;
+				result[i][j]++;
+				result[i][j + 1]++;
+				if (i+2 == matrix.size())
+				{
+					result[i + 1][j + 1]++;
+				}
 			}
 			if (matrix[i + 1][j + 1] == true)
 			{
-				matrix[i][j] = matrix[i][j] + 1;
-				result[i][j + 1] = result[i][j + 1] + 1;
-				result[i + 1][j] = result[i + 1][j] + 1;
+				result[i][j]++;
+				if (i+2== matrix.size())
+				{
+					result[i + 1][j]++;
+				}
+
+				if (j + 2 == matrix[i].size())
+				{
+					result[i][j + 1]++;
+				}
 			}
 		}
 	}
@@ -71,7 +72,7 @@ void minesweeper(void)
 		arr[i].resize(col);
 	}
 
-	/* Initialize the 2D vector */
+	/* Initialize the minesweeper matrix */
 	cout << "enter the 2D vector: \n";
 	for (unsigned int i = 0; i < arr.size(); i++)
 	{

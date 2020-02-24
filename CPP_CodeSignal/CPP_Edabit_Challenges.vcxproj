@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="absoluteValuesSumMinimization.cpp" />
     <ClCompile Include="addBorder.cpp" />
     <ClCompile Include="adjacentElementsProduct.cpp" />
     <ClCompile Include="almostIncreasingSequence.cpp" />
@@ -45,6 +46,8 @@
     <ClCompile Include="reverseInParentheses.cpp" />
     <ClCompile Include="sortByHeight.cpp" />
     <ClCompile Include="fileIO.cpp" />
+    <ClCompile Include="evenDigitsOnly.cpp" />
+    <ClCompile Include="variableName.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Main.h" />
