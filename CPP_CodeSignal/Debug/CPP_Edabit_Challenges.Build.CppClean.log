@@ -1,6 +1,5 @@
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\vc142.pdb
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\vc142.idb
-c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\minesweeper.obj
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\memorymanagement.obj
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\makearrayconsecutive.obj
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\main.obj
@@ -20,7 +19,9 @@ c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\alternatingsums.obj
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\almostincreasingsequence.obj
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\adjacentelementsproduct.obj
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\addborder.obj
+c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\absolutevaluessumminimization.obj
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\variablename.obj
+c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\stringsrearrangement.obj
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\evendigitsonly.obj
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\fileio.obj
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\sortbyheight.obj
@@ -28,8 +29,10 @@ c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\reverseinparentheses.o
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\returntheremainderfromtwonumbers.obj
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\palindromerearranging.obj
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\namespace.obj
-c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\cpp_edabit_challenges.ilk
+c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\minesweeper.obj
+c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\extracteachkth.obj
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\cpp_edabit_challenges.exe
+c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\cpp_edabit_challenges.ilk
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\cpp_edabit_challenges.pdb
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\cpp_edab.739cc8b8.tlog\cl.command.1.tlog
 c:\chandu\cpp_preparation\cpp_edabit\cpp_codesignal\debug\cpp_edab.739cc8b8.tlog\cl.read.1.tlog

@@ -36,7 +36,10 @@ int main(void)
 		//minesweeper();
 		//evenDigitsOnly();
 		//checkValidVariableName();
-		absoluteValuesSumMinimization();
+		//absoluteValuesSumMinimization();
+		//stringsRearrangement();
+		//extractEachKth();
+		findFirstDigit();
 		cout << "press 0 to exit: ";
 		cin >> temp;
  	}while (temp);
