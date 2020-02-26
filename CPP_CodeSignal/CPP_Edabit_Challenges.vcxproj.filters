@@ -102,6 +102,15 @@
     <ClCompile Include="absoluteValuesSumMinimization.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stringsRearrangement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="extractEachKth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="findFirstDigit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Main.h">

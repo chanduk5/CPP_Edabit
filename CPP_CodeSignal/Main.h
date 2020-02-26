@@ -26,3 +26,6 @@ void minesweeper(void);
 void evenDigitsOnly(void);
 void checkValidVariableName(void);
 void absoluteValuesSumMinimization(void);
+void stringsRearrangement(void);
+void extractEachKth(void);
+void findFirstDigit(void);
